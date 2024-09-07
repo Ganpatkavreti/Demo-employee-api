@@ -1,0 +1,231 @@
+[
+  {
+    "name": "John Doe",
+    "qualification": "B.Sc Computer Science",
+    "email": "johndoe@example.com",
+    "mobile_number": "9876543210",
+    "address": "1234 Elm Street, Cityville, NY 10001"
+  },
+  {
+    "name": "Jane Smith",
+    "qualification": "MBA",
+    "email": "janesmith@example.com",
+    "mobile_number": "9876543211",
+    "address": "5678 Oak Avenue, Townsville, CA 90210"
+  },
+  {
+    "name": "Mike Johnson",
+    "qualification": "M.Tech Mechanical Engineering",
+    "email": "mikejohnson@example.com",
+    "mobile_number": "9876543212",
+    "address": "2345 Pine Road, Hamlet, TX 75001"
+  },
+  {
+    "name": "Emily Davis",
+    "qualification": "Ph.D. Physics",
+    "email": "emilydavis@example.com",
+    "mobile_number": "9876543213",
+    "address": "7890 Maple Street, Smalltown, FL 32003"
+  },
+  {
+    "name": "David Wilson",
+    "qualification": "B.A. Economics",
+    "email": "davidwilson@example.com",
+    "mobile_number": "9876543214",
+    "address": "123 Birch Lane, Village, IL 60007"
+  },
+  {
+    "name": "Olivia Brown",
+    "qualification": "M.Sc Chemistry",
+    "email": "oliviabrown@example.com",
+    "mobile_number": "9876543215",
+    "address": "456 Cedar Street, Metro, GA 30301"
+  },
+  {
+    "name": "William Moore",
+    "qualification": "B.Com",
+    "email": "williammoore@example.com",
+    "mobile_number": "9876543216",
+    "address": "890 Redwood Ave, Township, WA 98101"
+  },
+  {
+    "name": "Sophia Taylor",
+    "qualification": "B.E. Electronics",
+    "email": "sophiataylor@example.com",
+    "mobile_number": "9876543217",
+    "address": "654 Pineapple St, Suburb, NJ 07001"
+  },
+  {
+    "name": "James Anderson",
+    "qualification": "M.B.B.S",
+    "email": "jamesanderson@example.com",
+    "mobile_number": "9876543218",
+    "address": "321 Cypress Drive, District, OH 43004"
+  },
+  {
+    "name": "Ava Thomas",
+    "qualification": "B.Sc Biotechnology",
+    "email": "avathomas@example.com",
+    "mobile_number": "9876543219",
+    "address": "567 Orange Ave, County, NV 89001"
+  },
+  {
+    "name": "Lucas Martin",
+    "qualification": "B.E. Computer Science",
+    "email": "lucasmartin@example.com",
+    "mobile_number": "9876543220",
+    "address": "890 Olive St, Borough, CO 80201"
+  },
+  {
+    "name": "Charlotte Garcia",
+    "qualification": "MBA Marketing",
+    "email": "charlottegarcia@example.com",
+    "mobile_number": "9876543221",
+    "address": "123 Cherry Lane, Cityville, MI 48001"
+  },
+  {
+    "name": "Henry Martinez",
+    "qualification": "M.Sc Physics",
+    "email": "henrymartinez@example.com",
+    "mobile_number": "9876543222",
+    "address": "456 Walnut St, Village, OR 97035"
+  },
+  {
+    "name": "Ella Robinson",
+    "qualification": "B.Tech IT",
+    "email": "ellarobinson@example.com",
+    "mobile_number": "9876543223",
+    "address": "789 Palm Drive, Townsville, MN 55401"
+  },
+  {
+    "name": "Noah Clark",
+    "qualification": "M.Tech Electrical Engineering",
+    "email": "noahclark@example.com",
+    "mobile_number": "9876543224",
+    "address": "123 Fig St, Hamlet, IN 46001"
+  },
+  {
+    "name": "Grace Lewis",
+    "qualification": "B.Sc Mathematics",
+    "email": "gracelewis@example.com",
+    "mobile_number": "9876543225",
+    "address": "456 Mango Ave, Suburb, PA 19019"
+  },
+  {
+    "name": "Jack Walker",
+    "qualification": "MBA Finance",
+    "email": "jackwalker@example.com",
+    "mobile_number": "9876543226",
+    "address": "789 Grapevine Road, Metro, NC 27501"
+  },
+  {
+    "name": "Amelia Hall",
+    "qualification": "B.E. Civil Engineering",
+    "email": "ameliahall@example.com",
+    "mobile_number": "9876543227",
+    "address": "321 Elmwood St, District, KY 41001"
+  },
+  {
+    "name": "Mason Young",
+    "qualification": "M.Sc Data Science",
+    "email": "masonyoung@example.com",
+    "mobile_number": "9876543228",
+    "address": "654 Apple St, County, UT 84101"
+  },
+  {
+    "name": "Isabella King",
+    "qualification": "B.Sc Nursing",
+    "email": "isabellaking@example.com",
+    "mobile_number": "9876543229",
+    "address": "567 Lemon St, Borough, AK 99501"
+  },
+  {
+    "name": "Liam Wright",
+    "qualification": "BBA",
+    "email": "liamwright@example.com",
+    "mobile_number": "9876543230",
+    "address": "890 Plum Lane, Cityville, AL 35201"
+  },
+  {
+    "name": "Mia Scott",
+    "qualification": "M.Sc Microbiology",
+    "email": "miascott@example.com",
+    "mobile_number": "9876543231",
+    "address": "123 Banana Ave, Village, AR 72201"
+  },
+  {
+    "name": "Alexander Torres",
+    "qualification": "M.Tech Robotics",
+    "email": "alexandertorres@example.com",
+    "mobile_number": "9876543232",
+    "address": "456 Lime St, Townsville, AZ 85001"
+  },
+  {
+    "name": "Harper Green",
+    "qualification": "B.E. Mechanical Engineering",
+    "email": "harpergreen@example.com",
+    "mobile_number": "9876543233",
+    "address": "789 Coconut Ave, Hamlet, CA 90001"
+  },
+  {
+    "name": "Ethan White",
+    "qualification": "Ph.D. Chemistry",
+    "email": "ethanwhite@example.com",
+    "mobile_number": "9876543234",
+    "address": "123 Blackberry Lane, Suburb, CO 80202"
+  },
+  {
+    "name": "Avery Harris",
+    "qualification": "M.Sc Environmental Science",
+    "email": "averyharris@example.com",
+    "mobile_number": "9876543235",
+    "address": "456 Blueberry Road, Metro, FL 32004"
+  },
+  {
+    "name": "Logan Baker",
+    "qualification": "B.Sc Geology",
+    "email": "loganbaker@example.com",
+    "mobile_number": "9876543236",
+    "address": "789 Strawberry St, District, GA 30302"
+  },
+  {
+    "name": "Sofia Perez",
+    "qualification": "MBA HR",
+    "email": "sofiaperez@example.com",
+    "mobile_number": "9876543237",
+    "address": "321 Melon Ave, County, IL 60008"
+  },
+  {
+    "name": "Jacob Lee",
+    "qualification": "B.A. Psychology",
+    "email": "jacoblee@example.com",
+    "mobile_number": "9876543238",
+    "address": "654 Raspberry Lane, Borough, IN 46201"
+  },
+  {
+    "name": "Abigail Gonzalez",
+    "qualification": "B.Sc Zoology",
+    "email": "abigailgonzalez@example.com",
+    "mobile_number": "9876543239",
+    "address": "567 Cherry Road, Cityville, KS 66001"
+  },
+  {
+    "name": "Daniel Ramirez",
+    "qualification": "B.E. Electrical Engineering",
+    "email": "danielramirez@example.com",
+    "mobile_number": "9876543240",
+    "address": "890 Cranberry Lane, Village, LA 70101"
+  },
+  {
+    "name": "Emily Martinez",
+    "qualification": "M.Tech Aerospace Engineering",
+    "email": "emilymartinez@example.com",
+    "mobile_number": "9876543241",
+    "address": "123 Peach St, Townsville, MA 02101"
+  },
+  {
+    "name": "Michael Clark",
+    "qualification": "B.Sc Biology",
+    "email": "michaelclark@example.com",
+    "mobile_number": "9876543242",
+    "address": "456 Apricot Road, Hamlet, MD 212}]
